@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Arseny!
-- 👀 I’m interested in Data Science, Artificial Intelligence and Cryptomarkets.
+- 👀 I’m interested in Data Science, Artificial Intelligence.
+- 👩🏻‍💻 I'm currently working as Java Back-End Developer.
 - 🌱 I’m currently learning Python, JavaScript and C++.
 - 💞️ I’m looking to collaborate on my future projects.
 - 📫 How to reach me : 
